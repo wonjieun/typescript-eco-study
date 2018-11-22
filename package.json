@@ -1,0 +1,12 @@
+{
+  "name": "typescript-eco-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "person.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node student"
+  },
+  "author": "",
+  "license": "ISC"
+}
